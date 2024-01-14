@@ -30,6 +30,17 @@ FINANCE REPORT
 🔹 Used Power Pivot to make several DAX formulas in order to generate  several column which was required for making report.
 
 
+Result :
+
+●	Generated a comprehensive P&L report for AtliQ Hardware FY 2022, utilizing advanced features in Excel such as Pivot Tables and DAX to provide granular insights into revenue streams and expense categories.
+
+●	Automated the data cleaning using Power Query, which can rescue around 4 hrs of repeated manual work.
+
+●	As it used DAX measure for calculations, it provided a better user experience and flexibility.
+
+
+
+
 LEARNINGS :
 
 1. Learned loading of different data in power query.
