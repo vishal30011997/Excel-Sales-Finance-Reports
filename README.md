@@ -41,7 +41,7 @@ Result :
 
 
 
-LEARNINGS :
+Learnings :
 
 1. Learned loading of different data in power query.
 
